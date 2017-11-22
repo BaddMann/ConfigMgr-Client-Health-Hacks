@@ -13,7 +13,7 @@
 	<ClientInstallProperty>DNSSUFFIX=andersrodland.lab</ClientInstallProperty>
 	<ClientInstallProperty>/Source:\\ConfigMgrTP.andersrodland.lab\Clienthealth$\client</ClientInstallProperty>
 	<ClientInstallProperty>/MP:ConfigMgrTP.andersrodland.lab</ClientInstallProperty>
-	<Log Name="File" Share="\\ConfigMgrTP.andersrodland.lab\ClientHealthLogs$" Level="Full" MaxLogHistory="8" LocalLogFile="True" Enable="True" />
+	<Log Name="File" Share="\\ConfigMgrTP.andersrodland.lab\ClientHealthLogs$" LocalLogPath="C:\LocalLogs" Level="Full" MaxLogHistory="8" LocalLogFile="True" Enable="True" />
 	<Log Name="SQL" Server="ConfigMgrTP.andersrodland.lab" Enable="True" />
 	<Option Name="BITSCheck" Fix="True" Enable="True" />
 	<Option Name="DNSCheck" Fix="True" Enable="True" />

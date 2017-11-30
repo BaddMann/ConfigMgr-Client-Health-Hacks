@@ -1,3 +1,9 @@
+# OSDBackground-JIT
+Re-configures OSDBackground just before Execution wihin the task sequences so that it's messages are built on the Group Headers.
+Will be looking into creating another script to evaluate the message that should be displayed on the fly while the task sewuence is running.
+
+Requires tsenv2.exe as I hate Powershell on WinPEx64
+
 # ConfigMgr-Client-Health-Hacks
 This Code does not belong to me, I just really needed to add some features and keep track of them all. Hope to convert the real Author to Github https://gallery.technet.microsoft.com/ConfigMgr-Client-Health-ccd00bd7
 

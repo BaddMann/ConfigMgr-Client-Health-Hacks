@@ -1,6 +1,6 @@
 # OSDBackground-JIT
 Re-configures OSDBackground just before Execution wihin the task sequences so that it's messages are built on the Group Headers.
-Will be looking into creating another script to evaluate the message that should be displayed on the fly while the task sewuence is running.
+Will be looking into creating another script to evaluate the message that should be displayed on the fly while the task sequence is running.
 
 Requires tsenv2.exe as I hate Powershell on WinPEx64
 
